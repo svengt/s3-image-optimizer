@@ -1,0 +1,15 @@
+.idea
+*.pyc
+
+bin/
+include/
+lib/
+.Python
+pip-selfcheck.json
+
+dist/
+build/
+*.egg-info/
+
+.tox/
+.coverage
